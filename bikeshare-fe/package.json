@@ -1,0 +1,56 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-leaflet/core": ">=1.0.0 <1.1.0 || ^1.1.1",
+    "@testing-library/jest-dom": "^5.13.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/bootstrap": "^5.0.16",
+    "@types/chart.js": "^2.9.32",
+    "@types/leaflet": "^1.5.4",
+    "@types/react-leaflet": "^1.1.5",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "chart.js": "^3.3.2",
+    "chartjs-adapter-moment": "^1.0.0",
+    "leaflet": "^1.7.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-chartjs-2": "^3.0.3",
+    "react-dom": "^17.0.2",
+    "react-leaflet": ">=3.1.0 <3.2.0 || ^3.2.1",
+    "react-leaflet-cluster": "^1.0.3",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.3.0",
+    "typescript": "^4.2.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

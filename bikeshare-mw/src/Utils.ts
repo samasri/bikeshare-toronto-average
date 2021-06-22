@@ -1,0 +1,1 @@
+export const average = (arr: Array<number>) => arr.reduce( ( p, c ) => p + c, 0 ) / arr.length;

@@ -1,0 +1,11 @@
+.main-title {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+  background-color: #f6f8fb;
+}
